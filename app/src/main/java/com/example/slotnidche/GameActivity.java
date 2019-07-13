@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.Random;
 
 public class GameActivity extends AppCompatActivity {
-
+//亂數宣告
     Random rnd = new Random();
 
     int BetNumber = 0;
